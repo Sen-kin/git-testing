@@ -4,6 +4,7 @@ public class Main{
         System.out.println("I need to commit something.");
     // need to fetch something for testing... 
                 System.out.println("New commit");
+                System.out.println("New commit2");
 
     }
 }
