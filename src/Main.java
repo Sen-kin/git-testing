@@ -3,5 +3,7 @@ public class Main{
         System.out.println("Hi!");
         System.out.println("I need to commit something.");
     // need to fetch something for testing... 
+                System.out.println("New commit");
+
     }
 }
