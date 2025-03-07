@@ -1,4 +1,6 @@
 
 public class GitClass {
     int a = 0;
+    int b = 1;
+
 }
